@@ -1,1 +1,1 @@
-# wallpaper_img
+# add a image to the page
