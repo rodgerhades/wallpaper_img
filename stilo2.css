@@ -1,0 +1,21 @@
+/* CSS document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image: url("img/679793_2.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+p{
+	color:red;
+	font-family: arial black;
+	font-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+	
+}
